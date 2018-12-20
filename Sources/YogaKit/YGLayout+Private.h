@@ -6,7 +6,7 @@
  */
 
 #import "YGLayout.h"
-#import "Yoga.h"
+#import <FlexLayout/Yoga.h>
 
 @interface YGLayout ()
 
